@@ -1,4 +1,27 @@
 # seisan
+ <html lang="ja">
+ <head>
+ <meta charset="UTF-8">
+ <title>まほろば_2017</title>
+
+<style type="text/css">
+ p {
+color: #0d0015;
+font-size: 1.5em;
+ }
+
+body { background-color: #ccffcc; }
+
+
+</style>
+<link rel="stylesheet" href="../style.css/" type="text/css">
+
+</head>
+
+
+<body>
+
+
 
   <section>
  <h2>簡易表計算-JavaScriptバージョンアップ版</h2>
@@ -26,3 +49,10 @@ var warimu = Math.round (Number(buntan) - Number(nummu))
 document.write ("支出 <br> スーさん：" + numsu + "円 <br> シーさん：" + numsi + "円 <br> ハーさん：" + numha + "円 <br> ムーさん：" + nummu + "円 <br> 合計金額" + goukei + "円 <br><br> 各自の清算 <br> スーさん：" + warisu + "円 <br> シーさん：" + warisi + "円 <br> ハーさん：" + wariha + "円 <br> ムーさん：" + warimu + "円 <br><br> 以上、お帰りも気を付けて、来年も元気に再開～(^^)/");
 </script>
  </section>
+
+</body>
+</html>
+<!-- フッタ -->
+ <footer>
+ Copyright 2018/07/24 S.Hada
+ </footer>
