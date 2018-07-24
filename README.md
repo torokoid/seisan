@@ -52,6 +52,7 @@ document.write ("支出 <br> スーさん：" + numsu + "円 <br> シーさん�
 
 </body>
 </html>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- フッタ -->
  <footer>
  Copyright 2018/07/24 S.Hada
